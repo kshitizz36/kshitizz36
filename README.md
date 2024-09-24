@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 👋 Hello, I'm Kshitiz Yadav!<br><br>I'm a passionate Computer Science student currently pursuing my B.Tech, specializing in Data Science. <br>I have a keen interest in leveraging technology to solve real-world problems.
 
 
