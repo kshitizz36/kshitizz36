@@ -1,6 +1,6 @@
 # 👾 About Me:
 👋 **Hello, I'm Kshitiz Yadav!**  
-📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:linkedin.com/in/kshitiz36)  
 🎓 **B.Tech Computer Science (Data Science Major)**   
 🚀 *Building scalable systems with code & creativity*  
 
@@ -18,21 +18,6 @@
 
 ### **Libraries**  
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Scipy](https://img.shields.io/badge/scipy-%23007CBB.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-
----
-
-# 🚀 **Projects**
-### **Ship Routing Optimization** | [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](link)
-⚓️ *Flask + Tauri + A** Algorithm*  
-✅ **13% efficiency gain** | 🛠️ Real-time environmental data integration
-
-### **InfoSeek AI** | [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](link)
-🤖 *LLM + Streamlit*  
-✅ Automated CSV/Sheets extraction | 🚦 Batch processing with error handling
-
-### **ONDC Sparse Matrix API** | [![GitHub](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](link)
-📦 *Spring Boot + HBase*  
-⚡ **150ms read speed** | 🔒 Spring Security & horizontal scaling
 
 ---
 
