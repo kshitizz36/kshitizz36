@@ -1,7 +1,7 @@
 # 👾 About Me:
 👋 **Hello, I'm Kshitiz Yadav!**  
-📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kshitizz36)  
-🎓 **B.Tech Computer Science (Data Science Major)** | 🏆 **Smart India Hackathon 2024 Finalist**  
+📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+🎓 **B.Tech Computer Science (Data Science Major)**   
 🚀 *Building scalable systems with code & creativity*  
 
 ---
@@ -48,5 +48,4 @@
 
 ---
 
-**Crafted with ❤️ & ☕**  
-*Updated dynamically with [GPRM](https://gprm.itsvg.in/)*
+
