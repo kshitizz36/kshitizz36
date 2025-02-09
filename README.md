@@ -1,7 +1,7 @@
 # 👾 About Me:
 👋 **Hello, I'm Kshitiz Yadav!**  
-📧 `kshitizyadav69@gmail.com` | 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kshitizz36)  
+📧 `kshitizyadav69@gmail.com`| 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz36)  
 
 🎓 **B.Tech Computer Science (Data Science Major)**  
 💡 Passionate about **full-stack development**, **AI/ML solutions**, and **scalable systems**.  
