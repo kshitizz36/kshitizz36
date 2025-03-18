@@ -1,6 +1,6 @@
 # 👾 About Me:
 👋 **Hello, I'm Kshitiz Yadav!**  
-📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https:linkedin.com/in/kshitiz36)  
+📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz36/)  
 🎓 **B.Tech Computer Science (Data Science Major)**   
 🚀 *Building scalable systems with code & creativity*  
 
