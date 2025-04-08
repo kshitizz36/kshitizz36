@@ -11,7 +11,7 @@ As a student passionate about Software Engineering, I’m always studying the be
 - 📺 **Gaming**
 - 💪 **Gyming**
 - ✈️ **Traveling**
-- 🏎️ **learning Driving cars or riding motorcycles**
+- 🏎️ **learning Driving cars and riding motorcycles**
 
 
 ---
