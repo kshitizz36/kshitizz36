@@ -5,16 +5,14 @@
 
 As a student passionate about Software Engineering, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software. My dream is to become a Software Engineer at **Google**.
 
-Outside of school, you'll find me doing a plethora of things:
-🕶️ **Building Projects**
-⚡ **Hackathons**
-📺 **Gaming**
+ Outside of school, you'll find me doing a plethora of things:
+- 🕶️ **Building Projects**
+- ⚡ **Hackathons**
+- 📺 **Gaming**
+- 💪 **Gyming**
+- ✈️ **Traveling**
+- 🏎️ **learning Driving cars or riding motorcycles**
 
-💪 **Gyming**
-
-✈️ **Traveling**
-
-🏎️ **learning Driving cars or riding motorcycles**
 
 ---
 
