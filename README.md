@@ -7,6 +7,7 @@ As a student passionate about Software Engineering, I’m always studying the be
 
 Outside of school, you'll find me doing a plethora of things:
 🕶️ **Building Projects**
+
 ⚡ **Hackathons**
 📺 **Gaming**
 💪 **Gyming**
