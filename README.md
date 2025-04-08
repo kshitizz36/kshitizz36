@@ -1,8 +1,19 @@
-# 👾 About Me:
-👋 **Hello, I'm Kshitiz Yadav!**  
+# 👾 About Me: 
 📧 `kshitizyadav69@gmail.com` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz36/)  
-🎓 **B.Tech Computer Science (Data Science Major)**   
-🚀 *Building scalable systems with code & creativity*  
+
+**Hey! 👋 I'm Kshitiz**, a Computer Science student at **Bennett University** (expected graduation May 2027). 
+
+As a student passionate about Software Engineering, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software. My dream is to become a Software Engineer at Google.
+
+I’m currently exploring internship opportunities for spring, summer, and fall, so feel free to connect or drop me a message. I’d love to chat and collaborate :)
+
+Outside of school, you'll find me doing a plethora of things:
+🕶️ **Building Projects**
+⚡ **Hackathons**
+📺 **Gaming**
+💪 **Gyming**
+✈️ **Traveling**
+🏎️ **learning Driving cars or riding motorcycles**
 
 ---
 
