@@ -1,6 +1,6 @@
 # 👾 About Me:
 [![Email](https://img.shields.io/badge/email-hi%40kshitizyadav69@gmail.com-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:Kshitizyadav69@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https)
 
 **Hey! 👋 I'm Kshitiz**, a Computer Science student at **Bennett University** (expected graduation May 2027). 
 
