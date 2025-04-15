@@ -19,7 +19,7 @@ As a student passionate about Software Engineering, I’m always studying the be
 # 📊 **GitHub Analytics**
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitizz36&theme=github-compact&custom_title=Kshitiz%20Activity%20Graph&hide_border=true)
 ![](https://raw.githubusercontent.com/kshitizz36/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kshitizz36&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kshitizz36&theme=dark" alt="GitHub Streak" /></a>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizz36&layout=compact&theme=dark&hide_border=true)](https://github.com/kshitizz36)  
 
 
