@@ -1,6 +1,8 @@
 # 👾 About Me:
 [![Email](https://img.shields.io/badge/email-hi%40kshitizyadav69@gmail.com-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:Kshitizyadav69@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz36/)
+<!-- GitAds-Verify: 7PRM5XGVBWO9OAUWZK5BNWS4GH6MXMVV -->
+
 
 **Hey! 👋 I'm Kshitiz**, a Computer Science student (expected graduation May 2027). 
 
