@@ -1,7 +1,3 @@
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=kshitizz36/kshitizz36@github)](https://gitads.dev/v1/ad-track?source=kshitizz36/kshitizz36@github)
-
-
 # 👾 About Me:
 [![Email](https://img.shields.io/badge/email-hi%40kshitizyadav69@gmail.com-EA4335.svg?style=flat-square&logo=minutemailer&logoColor=white&labelColor=3C3744)](mailto:Kshitizyadav69@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitiz36/)
