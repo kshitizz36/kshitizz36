@@ -5,7 +5,7 @@
 
 **Hey! 👋 I'm Kshitiz**, a Computer Science student (expected graduation May 2027). 
 
-As a student passionate about Software Engineering, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software. My dream is to become a Software Engineer at **Google**.
+As a student passionate about Software Engineering, I’m always studying the best software design principles and latest technology to keep up with the ever evolving world of software. My dream is to become a Software Engineer at **?**.
 
  Outside of school, you'll find me doing a plethora of things:
 - 🕶️ **Building Projects**
