@@ -44,50 +44,26 @@ Outside of school, you'll find me doing a plethora of things:
 <br/>
 
 <!-- Stats + Top Languages + Streak — all 3 in one row -->
-<p align="center">
+<table width="100%" align="center"><tr>
+<td align="center" width="33%">
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=2077"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=github"
-  >
-  <img
-    alt="Kshitiz's GitHub stats"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=github"
-    height="165"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=2077">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=github">
+  <img alt="Kshitiz's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitizz36&theme=github" width="100%">
 </picture>
+</td>
+<td align="center" width="33%">
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=2077&exclude=html,css"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=github&exclude=html,css"
-  >
-  <img
-    alt="Kshitiz's top languages"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=github&exclude=html,css"
-    height="165"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=2077&exclude=html,css">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=github&exclude=html,css">
+  <img alt="Kshitiz's top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitizz36&theme=github&exclude=html,css" width="100%">
 </picture>
+</td>
+<td align="center" width="33%">
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=kshitizz36&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=94a3b8&border=7c3aed&hide_border=true&border_radius=10"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=kshitizz36&background=faf5ff&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=1e1b4b&sideNums=1e1b4b&currStreakNum=7c3aed&dates=6b7280&border=ddd6fe&hide_border=true&border_radius=10"
-  >
-  <img
-    alt="Kshitiz's GitHub streak"
-    src="https://streak-stats.demolab.com?user=kshitizz36&background=faf5ff&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=1e1b4b&sideNums=1e1b4b&currStreakNum=7c3aed&dates=6b7280&border=ddd6fe&hide_border=true&border_radius=10"
-    height="165"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kshitizz36&background=0d0d1a&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&sideNums=e2e8f0&currStreakNum=e2e8f0&dates=94a3b8&border=7c3aed&hide_border=true&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kshitizz36&background=faf5ff&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=1e1b4b&sideNums=1e1b4b&currStreakNum=7c3aed&dates=6b7280&border=ddd6fe&hide_border=true&border_radius=10">
+  <img alt="Kshitiz's GitHub streak" src="https://streak-stats.demolab.com?user=kshitizz36&background=faf5ff&ring=a855f7&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=1e1b4b&sideNums=1e1b4b&currStreakNum=7c3aed&dates=6b7280&border=ddd6fe&hide_border=true&border_radius=10" width="100%">
 </picture>
-</p>
+</td>
+</tr></table>
